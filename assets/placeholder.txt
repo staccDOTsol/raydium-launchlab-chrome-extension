@@ -1,0 +1,2 @@
+This is a placeholder file for the assets directory.
+In a complete application, this directory would contain icons, images, and other static assets. 
